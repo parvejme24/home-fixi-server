@@ -1,0 +1,132 @@
+[
+  {
+    "image": "https://picsum.photos/200/300?image=34",
+    "name": "Junk Removal",
+    "description": "Remove unwanted items from your home or office.",
+    "area": "Daulatkhan, Bangladesh",
+    "price": 150,
+    "provider": {
+      "image": "https://picsum.photos/200/300?image=35",
+      "name": "Junk Busters",
+      "location": "Daulatkhan, Bangladesh",
+      "description": "We are a team of experienced junk haulers who can remove any unwanted items from your home or office."
+    }
+  },
+  {
+    "image": "https://picsum.photos/200/300?image=36",
+    "name": "Window Cleaning",
+    "description": "Make your windows sparkle with professional cleaning.",
+    "area": "Daulatkhan, Bangladesh",
+    "price": 100,
+    "provider": {
+      "image": "https://picsum.photos/200/300?image=37",
+      "name": "Crystal Clear Windows",
+      "location": "Daulatkhan, Bangladesh",
+      "description": "We are a team of experienced window cleaners who can make your windows sparkle inside and out."
+    }
+  },
+  {
+    "image": "https://picsum.photos/200/300?image=38",
+    "name": "Carpet Cleaning",
+    "description": "Remove stains and restore your carpets to their former glory.",
+    "area": "Daulatkhan, Bangladesh",
+    "price": 125,
+    "provider": {
+      "image": "https://picsum.photos/200/300?image=39",
+      "name": "Carpet Care",
+      "location": "Daulatkhan, Bangladesh",
+      "description": "We are a team of experienced carpet cleaners who use the latest techniques to remove stains and restore your carpets to their former glory."
+    }
+  },
+  {
+    "image": "https://picsum.photos/200/300?image=40",
+    "name": "House Painting",
+    "description": "Transform your home with a fresh coat of paint.",
+    "area": "Daulatkhan, Bangladesh",
+    "price": 1800,
+    "provider": {
+      "image": "https://picsum.photos/200/300?image=41",
+      "name": "Precision Painting",
+      "location": "Daulatkhan, Bangladesh",
+      "description": "We are a team of experienced painters who can provide you with a high-quality paint job that will transform your home."
+    }
+  },
+  {
+    "image": "https://picsum.photos/200/300?image=42",
+    "name": "Roof Repair",
+    "description": "Keep your home protected with expert roof repair services.",
+    "area": "Daulatkhan, Bangladesh",
+    "price": 600,
+    "provider": {
+      "image": "https://picsum.photos/200/300?image=43",
+      "name": "Roof Masters",
+      "location": "Daulatkhan, Bangladesh",
+      "description": "We are a team of experienced roofers who can provide you with the expert repair services you need to keep your home protected from the elements."
+    }
+  },
+  {
+    "image": "https://picsum.photos/200/300?image=22",
+    "name": "Carpentry Services",
+    "description": "Expert carpentry skills for your home projects",
+    "area": "Daulatkhan, Bangladesh",
+    "price": 400,
+    "provider": {
+      "image": "https://picsum.photos/200/300?image=23",
+      "name": "Wood Wizards",
+      "location": "Daulatkhan, Bangladesh",
+      "description": "We are a team of skilled carpenters who can handle a variety of carpentry projects, from installing doors and windows to building custom furniture."
+    }
+  },
+  {
+    "image": "https://picsum.photos/200/300?image=20",
+    "name": "Security System Installation",
+    "description": "Enhance your home security with expert installation",
+    "area": "Daulatkhan, Bangladesh",
+    "price": 800,
+    "provider": {
+      "image": "https://picsum.photos/200/300?image=21",
+      "name": "Secure Homes",
+      "location": "Daulatkhan, Bangladesh",
+      "description": "We are a team of experienced security professionals who can design, install, and monitor a comprehensive security system for your home."
+    }
+  },
+  {
+    "image": "https://picsum.photos/200/300?image=18",
+    "name": "Pest Control Services",
+    "description": "Protect your home from unwanted pests",
+    "area": "Daulatkhan, Bangladesh",
+    "price": 250,
+    "provider": {
+      "image": "https://picsum.photos/200/300?image=19",
+      "name": "Pest Shield",
+      "location": "Daulatkhan, Bangladesh",
+      "description": "We are a team of experienced and licensed pest control specialists who can eliminate and prevent pest infestations."
+    }
+  },
+  {
+    "image": "https://picsum.photos/200/300?image=16",
+    "name": "Air Conditioning Installation",
+    "description": "Stay cool and comfortable with expert AC installation",
+    "area": "Daulatkhan, Bangladesh",
+    "price": 1200,
+    "provider": {
+      "image": "https://picsum.photos/200/300?image=17",
+      "name": "Cool Comfort AC",
+      "location": "Daulatkhan, Bangladesh",
+      "description": "We are a team of licensed and certified AC technicians who can provide expert installation and maintenance services."
+    }
+  },
+  {
+    "image": "https://picsum.photos/200/300?image=14",
+    "name": "Home Renovation",
+    "description": "Transform your home with expert renovations",
+    "area": "Daulatkhan, Bangladesh",
+    "price": 2000,
+    "provider": {
+      "image": "https://picsum.photos/200/300?image=15",
+      "name": "Elite Renovations",
+      "location": "Daulatkhan, Bangladesh",
+      "description": "We are a team of experienced and skilled renovation experts who can transform your home into your dream space."
+    }
+  }
+]
